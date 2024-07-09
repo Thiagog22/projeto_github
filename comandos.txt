@@ -1,2 +1,25 @@
-Primeiro passos, Configuração
-git config
+-> Primeiros passos
+
+git config --global user.name
+git config --global user.email
+#So faz isso uma vez 
+
+
+=> Inicializando Repositório
+git init
+=> add arquivos e salvar 
+git add .
+git commit -m  "first commit"
+
+-> add repositorio Remoto - Github
+git remote add origin https://github.com/Thiagog22/projeto_github.git
+
+
+-> enviar
+git push -u origin main
+
+
+So seguir a triade
+git add . 
+git commit -m 
+git push
