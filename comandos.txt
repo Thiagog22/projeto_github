@@ -1,0 +1,2 @@
+Primeiro passos, Configuração
+git config
